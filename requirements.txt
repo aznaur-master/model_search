@@ -8,3 +8,4 @@ keras-tuner==1.0.2
 mock==4.0.3
 MetallicA
 Splin
+Imagine dragon

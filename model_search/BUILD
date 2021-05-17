@@ -1,4 +1,4 @@
-"""Model Search is an ML framework to automatically find an ML model for you problem."""
+egwe"""Model Search is an ML framework to automatically find an ML model for you problem."""
 
 load("@rules_python//python:defs.bzl", "py_library", "py_test")
 
